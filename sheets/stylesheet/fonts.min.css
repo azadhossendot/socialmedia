@@ -1,0 +1,44 @@
+@font-face{
+	font-family: "Montserrat";
+	src: url("../../fonts/Montserrat.otf");
+}
+@font-face{
+	font-family: "Brandon";
+	src: url("../../fonts/Brandon.woff");
+}
+@font-face{
+	font-family: "Open Sans";
+	src: url("../../fonts/OpenSans.ttf");
+}
+@font-face{
+	font-family: "Josefin Sans";
+	src: url("../../fonts/JosefinSans.ttf");
+}
+@font-face{
+	font-family: "Hind Siliguri";
+	src: url("../../fonts/HindSiliguri.ttf")
+}
+@font-face{
+	font-family: "Jaapokki";
+	src: url("../../fonts/Jaapokki.ttf")
+}
+@font-face{
+	font-family: "Somatic";
+	src: url("../../fonts/Somatic.otf")
+}
+@font-face{
+	font-family: "Ikaros";
+	src: url("../../fonts/Ikaros.otf")
+}
+@font-face{
+	font-family: "Anurati";
+	src: url("../../fonts/Anurati.otf")
+}
+@font-face{
+	font-family: "Gilroy ExtraBold";
+	src: url("../../fonts/Gilroy-ExtraBold.otf");
+}
+@font-face{
+	font-family: "Gilroy";
+	src: url("../../fonts/Gilroy-Light.otf")
+}
